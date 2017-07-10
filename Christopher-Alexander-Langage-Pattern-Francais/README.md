@@ -2,7 +2,7 @@
 
 Ceci est un traduction en français des éléments clés des patterns décrit par l'architecte Christopher Alexander dans son ouvrage: A Pattern language.
 
-Bien qu'elle soit peut connu dans le monde architectural la méthode de langage de pattern a fortement influencé les developpeurs (les méthodes agiles et l'invention des wikis ont été directement influencés par les travaux de Christopher Alexander.
+Bien qu'elle soit peut connu dans le monde architectural la méthode de langage de pattern a fortement influencé les developpeurs (les méthodes agiles et l'invention des wikis ont été directement influencés par les travaux de Christopher Alexander).
 
 Cette méthode des langages de pattern consiste a synthétiser sous forme de pattern (de trames ou canevas comme les patrons de conception) tous les aspects d'un projet et les bonnes pratiques associées.
 
